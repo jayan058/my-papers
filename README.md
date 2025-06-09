@@ -24,5 +24,5 @@ Organized by category for clarity and scalability. Each entry includes links to 
 
 | Paper Name                                                                  | Category         | PDF Link         | Figshare Link     |
 |-----------------------------------------------------------------------------|------------------|------------------|-------------------|
-| TransExplain: Unified Fine-Grained Explainability for Vision & Language Transformers | Explainable AI  | [PDF](https://jayan058.github.io/my-papers/trans_explain.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
+| TransExplain: Unified Fine Grained Explainability for Vision & Language Transformers | Explainable AI  | [PDF](https://jayan058.github.io/my-papers/trans_explain.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
 
