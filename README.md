@@ -6,13 +6,12 @@ Organized by category for clarity and scalability. Each entry includes links to 
 
 ## 📁 Categories
 - [Medical Imaging](#medical-imaging)
-- [Zero-Shot Learning](#zero-shot-learning)
-- [GANs](#gans)
-- [Segmentation](#segmentation)
+- [GAN](#gan)
+- [Explainable-AI (XAI)](#explainable-ai-xai)
 
 ---
 
-## 🧠 Medical Imaging
+## Medical Imaging
 
 | Paper Name                                                                  | Category         | PDF Link         | Figshare Link     |
 |-----------------------------------------------------------------------------|------------------|------------------|-------------------|
@@ -22,7 +21,7 @@ Organized by category for clarity and scalability. Each entry includes links to 
 
 
 
-##  Explainable-AI (XAI)
+## Explainable-AI (XAI)
 
 | Paper Name                                                                  | Category         | PDF Link         | Figshare Link     |
 |-----------------------------------------------------------------------------|------------------|------------------|-------------------|
