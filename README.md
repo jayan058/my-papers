@@ -29,11 +29,11 @@ Organized by category for clarity and scalability. Each entry includes links to 
 | TransExplain: Unified Fine Grained Explainability for Vision & Language Transformers | Explainable AI  | [PDF](https://jayan058.github.io/my-papers/trans_explain.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
 
 
-##GAN
+## GAN
 
 | Paper Name                                                                  | Category         | PDF Link         | Figshare Link     |
 |-----------------------------------------------------------------------------|------------------|------------------|-------------------|
-| ARM-Net: Adaptive Radiance Modulation for Low-Light Enhancement | GAN  | [PDF](https://jayan058.github.io/my-papers/transunet.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
+| ARM-Net: Adaptive Radiance Modulation for Low-Light Enhancement | GAN  | [PDF](https://jayan058.github.io/my-papers/arm-net.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
 
 
 
