@@ -33,6 +33,7 @@ Organized by category for clarity and scalability. Each entry includes links to 
 | Paper Name                                                                  | Category         | PDF Link         | Figshare Link     |
 |-----------------------------------------------------------------------------|------------------|------------------|-------------------|
 | ARM-Net: Adaptive Radiance Modulation for Low-Light Enhancement | GAN  | [PDF](https://jayan058.github.io/my-papers/arm-net.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
+| CLIPBridge-GAN: Bridging Prompt Semantics and Image Synthesis via CLIP-Guided Adversarial Training | GAN  | [PDF](https://jayan058.github.io/my-papers/clip_bridgeGAN.pdf)  | [Figshare](https://figshare.com/articles/journal_contribution/Few-Shot_Localization_and_Anomaly_Detection_in_Medical_Images_via_Prompt-Tuned_CLIP_Using_Healthy-Only_Training_for_Diverse_Clinical_Modalities/29207135?file=55025507) |
 
 
 
