@@ -1,5 +1,3 @@
----
-
 # This Page Contains All of My Independent Research Papers and Two of my undergradutate Thesis
 
 ## 📁 Categories
